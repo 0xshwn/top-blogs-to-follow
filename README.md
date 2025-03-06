@@ -35,3 +35,4 @@
 | Snowscan      | [snowscan.io](https://snowscan.io/) | Red Teaming, Exploitation | [@snowscan](https://x.com/snowscan) |
 | Red vs Blue   | [blog.redxorblue.com](https://blog.redxorblue.com/) | Red Teaming, Defense | [@redxorblue](https://x.com/redxorblue) |
 | Int0x33       | [int0x33.medium.com](https://int0x33.medium.com/) | Exploitation, Reverse Engineering | [@int0x33](https://x.com/int0x33) |
+|Daily Write-Ups| [Daily Write-Ups Telegram Channel](https://t.me/Daily_Writeups) | It's a little noisy but it is up to date | N/A |

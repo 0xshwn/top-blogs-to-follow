@@ -37,3 +37,4 @@
 | Int0x33       | [int0x33.medium.com](https://int0x33.medium.com/) | Exploitation, Reverse Engineering | [@int0x33](https://x.com/int0x33) |
 |Daily Write-Ups| [Daily Write-Ups Telegram Channel](https://t.me/Daily_Writeups) | It's a little noisy but it is up to date | N/A |
 |Zhero Web Security| [Zhero web sec](https://zhero-web-sec.github.io/) | Security, Pentesting | [@zshero___](https://twitter.com/zhero___) |
+|Detectify| [Detectify](https://labs.detectify.com/category/writeups/) | Bug Bounty, Zero Days | N/A |
